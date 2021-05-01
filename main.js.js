@@ -5,7 +5,7 @@ alert(
 var c = document.getElementById("my-canvas");
 var cxt = c.getContext("2d");
 
-document.body.style.backgroundImage = "url('D:/Project/background.jpg')";
+document.body.style.backgroundImage = "url('/Images/background.jpg')";
 
 let loadImage = (src, callback) => {
   let img = document.createElement("img");
