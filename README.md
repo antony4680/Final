@@ -10,4 +10,4 @@ a robust foundation in computational thinking.
     <li>Use computational abstractions.
         <li>Work with the HTML Canvas.
             <li>Create a computational model for a game.
-                <li>Use side-effects to render game state as graphical output in canvas<li>Build and style a basic personal website of your own.
+               <li>Use side-effects to render game state as graphical output in canvas<li>Build and style a basic personal website of your own.
